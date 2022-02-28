@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Little Fitness</string>
+    <string name="equipment">you need %s</string>
+</resources>
